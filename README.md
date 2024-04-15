@@ -1,3 +1,3 @@
-## Homepage for Jiaheng Liu
+## Homepage for Ge Zhang
 
-- https://liujiaheng.github.io/
+- https://gezhang.github.io/
